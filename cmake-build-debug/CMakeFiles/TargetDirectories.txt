@@ -1,0 +1,3 @@
+C:/Users/Anshul/CLionProjects/SchoolManagementSystem/cmake-build-debug/CMakeFiles/SchoolManagementSystem.dir
+C:/Users/Anshul/CLionProjects/SchoolManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anshul/CLionProjects/SchoolManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

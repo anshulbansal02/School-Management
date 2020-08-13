@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anshul/CLionProjects/SchoolManagementSystem/main.cpp
+iostream
+-
+cstdio
+-
+fstream
+-
+conio.h
+-
+ctime
+-
+windows.h
+-
+iomanip
+-
+
